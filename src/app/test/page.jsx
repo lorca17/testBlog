@@ -22,8 +22,9 @@ export default function test() {
     <Featured />
     <Main />
     <Footer />
+    <p>nnnn</p>
     <CurrentDomain />
-   
+   <p>nnn</p>
     
      {/*  <h1>Hola</h1> */}
      {/*  <p>{ficheros[0]}</p> */}
