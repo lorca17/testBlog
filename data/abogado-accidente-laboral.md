@@ -1,7 +1,3 @@
----
-title: Esto son los mejores accidentes
-metadescripcion: esto 
----
 # Abogados expertos en accidentes de tráfico: ¿Cómo encontrar el mejor especialista?
 
 ## Introducción

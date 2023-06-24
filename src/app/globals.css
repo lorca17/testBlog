@@ -943,3 +943,7 @@ video {
     width: 33.333333%;
   }
 }
+
+h1, h2, h3 {
+  @apply text-gray-900 font-serif text-3xl my-5 font-thin
+}
