@@ -5,7 +5,8 @@ import matter from "gray-matter";
 export default function posts (){
   let dataDirectorio = path.join(process.cwd(), "data");
   let ficheros = fs.readdirSync(dataDirectorio);
-  let data = ficheros.map((e)=> {
+  let archivos = ficheros.filter((e)=> e.includes('.md'))
+  let data = archivos.map((e)=> {
     let datoFichero = fs.readFileSync(dataDirectorio+'/'+e,'utf-8')
     let {data} = matter(datoFichero)
     let obj = {}

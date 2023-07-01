@@ -9,8 +9,6 @@ import Main from "./componentes/main/Main";
 import CurrentDomain from "../../utils/currentDomain";
 import posts from "../../utils/posts";
 
-
-
 export default function Home() {
   // let {data,content} = matter(Datos)
 
@@ -20,13 +18,6 @@ export default function Home() {
       <Featured items={posts()} />
       <Main />
       <Footer />
-      <p>nnnn</p>
-      <CurrentDomain />
-      <p>nnn</p>
-
-      {/*  <h1>Hola</h1> */}
-      {/*  <p>{ficheros[0]}</p> */}
-      {/*  <Markdown>{content}</Markdown> */}
     </>
   );
 }
