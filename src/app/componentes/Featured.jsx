@@ -17,7 +17,7 @@ export default function Featured({items}){
               return (
                 <li className="my-2 px-2 w-full overflow-hidden md:w-1/3 lg:w-1/3 xl:w-1/3" key={e.data.titulo}>
                 <a href={e.slug}>
-                    <div className="mx-2 flex items-center justify-center bg-gray-300 bg-cover bg-center relative rounded overflow-hidden" style={{"background-image":`url(${'./img/'+e.slug+'-1.webp'})`}}>
+                    <div className="mx-2 flex items-center justify-center bg-gray-300 bg-cover bg-center relative rounded overflow-hidden" /* style={{"background-image":`url(${'./img/'+e.slug+'-1.webp'})`}} */>
                         <div className="absolute w-full h-full bg-black z-10 opacity-50"></div>
                         <div className="relative z-20 text-center p-5">
                             <span className="inline-block text-white uppercase text-xs tracking-wide">{e.data.descripcion}</span>
