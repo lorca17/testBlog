@@ -10,6 +10,8 @@ descripcion: >-
 
 # Defensa Penal: Protegiendo tus Derechos y Libertades
 
+ ![defensa penal.md](./img/defensa-penal-1.webp)
+
 ## Introducción
 
 En este artículo, exploraremos el mundo de la defensa penal y cómo los abogados expertos en distintas áreas se dedican a proteger los derechos y libertades de las personas. Desde accidentes de coche hasta casos de insolvencias, escolta legal, y más, estos profesionales están ahí para brindar asesoramiento y representación legal en momentos difíciles.

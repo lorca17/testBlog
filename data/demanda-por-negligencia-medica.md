@@ -7,6 +7,8 @@ descripcion: >-
 
 # Negligencia Médica: La Demanda que Estremece a la Sociedad
 
+ ![demanda por-negligencia-medica.md](./img/demanda-por-negligencia-medica-1.webp)
+
 ## La Realidad del Sistema de Salud y las Consecuencias de la Negligencia Médica
 
 > "La negligencia médica es una realidad que afecta a miles de personas en todo el mundo. En este artículo, exploraremos las causas, consecuencias y demandas asociadas a este problema. También discutiremos las implicaciones legales y cómo los abogados especializados en casos de negligencia médica pueden ayudar a las víctimas a buscar justicia."

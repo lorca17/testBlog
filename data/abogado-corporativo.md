@@ -8,6 +8,8 @@ descripcion: >-
 
 # Título en español:
 
+ ![abogado corporativo.md](./img/abogado-corporativo-1.webp)
+
 ## ¡Encuentra al Mejor Abogado Corporativo para tus Necesidades Legales!
 
 ### Introducción

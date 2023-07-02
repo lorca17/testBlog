@@ -5,6 +5,8 @@ descripcion: 'Consulta gratis con un abogado laboral: Expertos en casos de traba
 
 # **Consulta gratis con un abogado laboral: Expertos en casos de trabajo**
 
+ ![abogado laboral-consulta-gratis.md](./img/abogado-laboral-consulta-gratis-1.webp)
+
 ## **Introducción**
 
 En este artículo, te ofrecemos la oportunidad de consultar gratis a un abogado laboral para resolver tus problemas relacionados con el ámbito laboral. Nuestro equipo de expertos en casos de trabajo está listo para brindarte asesoramiento legal y ayudarte a encontrar soluciones justas. A continuación, te presentamos una lista de los servicios que ofrecemos:

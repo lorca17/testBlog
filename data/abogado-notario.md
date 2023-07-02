@@ -7,6 +7,8 @@ descripcion: >-
 ---
 # Abogado Notario: Todo lo que Necesitas Saber
 
+ ![abogado notario.md](./img/abogado-notario-1.webp)
+
 ## Introducción
 
 En el mundo legal, hay profesionales que juegan un papel fundamental en diversas áreas, como los abogados y notarios. Estos expertos desempeñan roles importantes en la sociedad, ofreciendo servicios legales y asesoramiento en diferentes situaciones. En este artículo, exploraremos en detalle el papel y las responsabilidades de un abogado notario, así como su importancia en el ámbito legal. También abordaremos algunas preguntas frecuentes sobre este tema. 

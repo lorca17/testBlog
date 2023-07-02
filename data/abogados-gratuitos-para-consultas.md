@@ -7,6 +7,8 @@ descripcion: 'Abogados Gratuitos para Consultas: La solución que necesitas'
 
 # Abogados Gratuitos para Consultas: La opción perfecta para resolver tus problemas legales
 
+ ![abogados gratuitos-para-consultas.md](./img/abogados-gratuitos-para-consultas-1.webp)
+
 ## Consultas Legales Gratuitas: La solución que necesitas
 
 > "No te quedes con dudas, ¡consulta con un abogado gratis hoy mismo!"

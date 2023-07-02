@@ -9,6 +9,8 @@ descripcion: >-
 
 # Abogado Urbanista: Transformando la Ciudad con su Expertise
 
+ ![abogado urbanista.md](./img/abogado-urbanista-1.webp)
+
 ## La Importancia del Abogado Urbanista en el Desarrollo de las Ciudades
 
 > "El urbanista es el arquitecto de las leyes que moldean nuestras ciudades." - [link](https://www.example.com)

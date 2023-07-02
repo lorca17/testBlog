@@ -9,6 +9,8 @@ descripcion: >-
 
 # Negligencia Médica: Un Problema que Necesita Atención Urgente
 
+ ![negligencia medica.md](./img/negligencia-medica-1.webp)
+
 ## El Impacto de la Negligencia Médica en la Sociedad
 
 > "La negligencia médica es una realidad preocupante que afecta a millones de personas en todo el mundo."

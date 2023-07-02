@@ -10,6 +10,8 @@ descripcion: >-
 
 # **Despacho de Abogados Laborales: Expertos en Casos de Trabajo**
 
+ ![abogado laboral.md](./img/abogado-laboral-1.webp)
+
 ## **Introducción**
 
 En este artículo, exploraremos la importancia de contar con un **despacho de abogados laborales** especializado en casos de trabajo. Nuestro objetivo es brindar información valiosa sobre la importancia de contar con expertos en leyes laborales para proteger tus derechos y buscar soluciones efectivas para cualquier conflicto relacionado con el ámbito laboral.

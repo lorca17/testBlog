@@ -10,6 +10,8 @@ descripcion: >-
 
 # El Procurador de los Tribunales: Un Profesional Indispensable en el Sistema Judicial Español
 
+ ![procurador de-los-tribunales.md](./img/procurador-de-los-tribunales-1.webp)
+
 ## Introducción
 
 En el sistema judicial español, el papel del procurador de los tribunales es fundamental para garantizar un proceso legal justo y eficiente. Este profesional, aunque menos conocido que los abogados, desempeña una labor imprescindible en la representación y defensa de los intereses de las partes involucradas en un litigio. En este artículo, exploraremos en detalle el trabajo de los procuradores de los tribunales y su importancia en el ámbito legal en España.

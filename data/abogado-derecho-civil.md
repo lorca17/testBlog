@@ -11,6 +11,8 @@ descripcion: >-
 
 # Abogado de Derecho Civil: Protege tus derechos y resuelve tus conflictos legales
 
+ ![abogado derecho-civil.md](./img/abogado-derecho-civil-1.webp)
+
 ## Conoce la importancia de contar con un abogado especializado en derecho civil
 
 > "El derecho civil es el pilar fundamental que regula las relaciones entre personas y garantiza la protección de sus derechos."

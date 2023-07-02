@@ -10,6 +10,8 @@ descripcion: >-
 
 # Título en español:
 
+ ![abogados de-derecho-laboral.md](./img/abogados-de-derecho-laboral-1.webp)
+
 ## Abogados de Derecho Laboral: Tu guía completa para proteger tus derechos en el trabajo
 
 ### Introducción

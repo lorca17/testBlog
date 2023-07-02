@@ -10,6 +10,8 @@ descripcion: >-
 
 # Abogados de herencias: la importancia de contar con expertos en casos de testamentos y sucesiones
 
+ ![abogados herencias.md](./img/abogados-herencias-1.webp)
+
 ## Una introducción al mundo de los abogados de herencias
 
 En la sociedad actual, la planificación y gestión de las herencias se ha convertido en un tema de vital importancia. Los abogados de herencias juegan un papel fundamental en la resolución de conflictos y en la protección de los derechos de los herederos. En este artículo, exploraremos la importancia de contar con expertos en casos de testamentos y sucesiones para asegurar que los deseos del fallecido se cumplan y evitar disputas familiares.

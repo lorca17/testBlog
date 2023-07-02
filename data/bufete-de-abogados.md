@@ -10,6 +10,8 @@ descripcion: >-
 # Bufete de Abogados: Los Expertos en Casos Legales
 
 
+ ![bufete de-abogados.md](./img/bufete-de-abogados-1.webp)
+
 ## Un Servicio Legal Integral para Todas tus Necesidades
 
 > "Encuentra la asesoría legal que necesitas con nuestro bufete de abogados expertos en una amplia variedad de casos legales."

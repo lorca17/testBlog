@@ -9,6 +9,8 @@ descripcion: >-
 
 # Abogados de Accidentes de Tráfico: Defensores de tus Derechos
 
+ ![derecho abogado.md](./img/derecho-abogado-1.webp)
+
 ## Abogados Especialistas en Casos de Tráfico: Tu Mejor Opción
 
 > "Los abogados de accidentes de coche te brindan el respaldo legal que necesitas para enfrentar cualquier situación de tráfico y proteger tus derechos."

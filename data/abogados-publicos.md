@@ -10,6 +10,8 @@ descripcion: >-
 
 # Abogados Públicos: Todo lo que Necesitas Saber
 
+ ![abogados publicos.md](./img/abogados-publicos-1.webp)
+
 ## Introducción
 
 En el mundo legal, es fundamental contar con expertos en diferentes áreas para garantizar una representación eficiente. Los **abogados públicos** son profesionales especializados que brindan asesoramiento y defensa legal a personas que no pueden permitirse contratar servicios privados. En este artículo, exploraremos en detalle qué son los abogados públicos y cómo pueden ayudarte. ¡Descubre todo lo que necesitas saber!

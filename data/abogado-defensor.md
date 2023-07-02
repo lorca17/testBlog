@@ -4,6 +4,8 @@ descripcion: 'Un abogado defensor experto: tu mejor aliado en cuestiones legales
 ---
 # Un Abogado Defensor: Tu Mejor Aliado en Cuestiones Legales
 
+ ![abogado defensor.md](./img/abogado-defensor-1.webp)
+
 ## El Papel Crucial de un Abogado Defensor
 
 > "Un abogado defensor es tu mejor aliado en momentos legales complicados."

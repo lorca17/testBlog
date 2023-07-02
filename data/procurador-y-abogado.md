@@ -7,6 +7,8 @@ descripcion: >-
 
 # Un Encuentro de Procuradores y Abogados: La Alianza Perfecta
 
+ ![procurador y-abogado.md](./img/procurador-y-abogado-1.webp)
+
 ## Una Experiencia Única
 
 > "La unión hace la fuerza" - Proverbio español

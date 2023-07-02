@@ -10,6 +10,8 @@ descripcion: >-
 
 # Abogados especializados en sucesiones - ¡Encuentra el mejor bufete jurídico!
 
+ ![abogados especialistas-en-herencias.md](./img/abogados-especialistas-en-herencias-1.webp)
+
 ## ¿Por qué necesitas un abogado especialista en herencias?
 
 > "Cuando se trata de herencias, es fundamental contar con el asesoramiento de abogados expertos en la materia." - [Fuente](https://www.example.com)

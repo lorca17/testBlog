@@ -7,6 +7,8 @@ descripcion: >-
 
 # Abogado Administrativo: La clave para resolver tus problemas legales
 
+ ![abogado administrativo.md](./img/abogado-administrativo-1.webp)
+
 ## El papel fundamental del abogado administrativo en la resolución de conflictos legales
 
 > "El conocimiento es poder. La información es libertad. La educación es la premisa del progreso en cada sociedad, en cada familia" - Kofi Annan

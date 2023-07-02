@@ -8,6 +8,8 @@ descripcion: >-
 
 # Abogados de Trabajadores: Luchando por tus Derechos Laborales
 
+ ![abogados de-trabajadores.md](./img/abogados-de-trabajadores-1.webp)
+
 ## Una introducción a los abogados de trabajadores y su importancia en la defensa de los derechos laborales
 
 En el mundo laboral actual, es fundamental contar con el respaldo y la representación de abogados especializados en temas laborales. Los abogados de trabajadores son profesionales que se dedican a proteger los derechos de los empleados y a garantizar que se cumplan las leyes laborales. En este artículo, exploraremos la importancia de los abogados de trabajadores, sus áreas de especialización y cómo pueden ayudarte en situaciones laborales adversas.

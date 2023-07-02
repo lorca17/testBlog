@@ -7,6 +7,8 @@ descripcion: La importancia de contar con un abogado en inglés en un mundo glob
 
 # Abogados en Inglés: La Importancia de la Comunicación Legal en un Mundo Globalizado
 
+ ![abogado en-ingles.md](./img/abogado-en-ingles-1.webp)
+
 ## La Comunicación Legal en un Mundo Multilingüe
 
 > "La traducción legal es una herramienta clave para el éxito en casos internacionales", afirma el experto en derecho internacional [John Smith](https://www.examplelink.com).

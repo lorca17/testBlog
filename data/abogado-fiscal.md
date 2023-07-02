@@ -10,6 +10,8 @@ descripcion: >-
 
 # Abogado fiscal: Todo lo que necesitas saber sobre la asesoría legal en temas fiscales
 
+ ![abogado fiscal.md](./img/abogado-fiscal-1.webp)
+
 ## Introducción
 
 En este artículo te daremos toda la información que necesitas sobre la importancia de contar con un abogado fiscal. Desde los servicios que ofrece hasta cómo elegir al mejor profesional para tus necesidades. Si estás buscando asesoramiento legal en temas fiscales, ¡no te pierdas esta guía completa!

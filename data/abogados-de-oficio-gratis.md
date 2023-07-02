@@ -8,6 +8,8 @@ descripcion: >-
 
 # Abogados de Oficio Gratis: Una Solución Legal al Alcance de Todos
 
+ ![abogados de-oficio-gratis.md](./img/abogados-de-oficio-gratis-1.webp)
+
 ## Acceso a la justicia sin costo alguno
 
 - ¡Abogados de oficio gratis! Descubre cómo acceder a servicios legales sin tener que preocuparte por los honorarios.

@@ -7,6 +7,8 @@ descripcion: >-
 
 # El Colegio de Procuradores: Una Institución Fundamental en el Sistema Legal Español
 
+ ![colegio de-procuradores.md](./img/colegio-de-procuradores-1.webp)
+
 ## Introducción
 
 En el complejo entramado legal español, el Colegio de Procuradores desempeña un papel crucial como intermediario entre los abogados y los tribunales. Esta institución, formada por profesionales altamente capacitados y especializados, se encarga de representar y defender los intereses de sus clientes en los procesos judiciales. En este artículo, exploraremos la importancia del Colegio de Procuradores y su contribución al sistema legal español.

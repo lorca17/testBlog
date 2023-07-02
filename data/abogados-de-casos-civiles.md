@@ -10,6 +10,8 @@ descripcion: >-
 
 # Los Expertos en Casos Civiles: Protegiendo Tus Derechos
 
+ ![abogados de-casos-civiles.md](./img/abogados-de-casos-civiles-1.webp)
+
 ## Introducción
 
 En este artículo descubrirás la importancia de contar con abogados de casos civiles expertos en la defensa de tus derechos. Exploraremos cómo estos profesionales pueden ayudarte en situaciones legales complejas y te brindaremos información sobre los beneficios de contratar a los mejores abogados en casos civiles.

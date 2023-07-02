@@ -9,6 +9,8 @@ descripcion: >-
 
 # Consulta de Abogados: Encuentra a los Expertos en Derecho que Necesitas
 
+ ![consulta de-abogados.md](./img/consulta-de-abogados-1.webp)
+
 ## Encuentra a los Mejores Abogados para tus Casos Legales
 
 > "La justicia no es solo una meta, sino un camino que debemos recorrer con la ayuda de profesionales capacitados." - [Consulta de Abogados](https://consultadeabogados.com)

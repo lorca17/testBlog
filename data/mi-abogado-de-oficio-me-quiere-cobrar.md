@@ -11,6 +11,8 @@ descripcion: >-
 
 # Mi abogado de oficio me quiere cobrar: una historia de injusticia y desesperación
 
+ ![mi abogado-de-oficio-me-quiere-cobrar.md](./img/mi-abogado-de-oficio-me-quiere-cobrar-1.webp)
+
 ## Introducción
 
 En esta ocasión, quiero compartir con ustedes una historia personal que refleja la realidad a la que muchos nos enfrentamos al lidiar con abogados de oficio. A través de una serie de eventos desafortunados, me vi envuelto en un caso legal complicado y, como muchos, decidí recurrir a un abogado de oficio para recibir asesoramiento y representación legal. Sin embargo, lo que esperaba que fuera una ayuda gratuita y justa, se convirtió en una pesadilla financiera. En este artículo, exploraré los desafíos que enfrenté, las dificultades para obtener respuestas y la lucha por encontrar una solución justa.

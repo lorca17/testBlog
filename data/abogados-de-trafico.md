@@ -9,6 +9,8 @@ descripcion: >-
 
 # Los mejores abogados de tráfico: expertos en accidentes y multas de tráfico
 
+ ![abogados de-trafico.md](./img/abogados-de-trafico-1.webp)
+
 ## El papel vital de los abogados de tráfico en casos de accidentes de tráfico y multas de tráfico
 
 > "La justicia no es solo un valor abstracto; es nuestra seguridad más inmediata" - Ruth Bader Ginsburg

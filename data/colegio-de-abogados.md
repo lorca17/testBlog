@@ -13,6 +13,8 @@ descripcion: >-
 
 # Colegio de Abogados: Los Mejores Defensores para tus Problemas Legales
 
+ ![colegio de-abogados.md](./img/colegio-de-abogados-1.webp)
+
 ## Introducción
 
 En el mundo legal, contar con el apoyo de un abogado de confianza es fundamental para resolver cualquier tipo de problema. En este artículo, te mostraremos la importancia de contar con los servicios del Colegio de Abogados y cómo pueden ayudarte en diversas situaciones legales. A continuación, te presentamos un resumen de lo que aprenderás en este artículo:

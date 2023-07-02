@@ -12,6 +12,8 @@ descripcion: >-
 
 # Abogados para Inquilinos: Asesoramiento legal gratuito para proteger tus derechos como inquilino
 
+ ![abogados para-inquilinos-gratis.md](./img/abogados-para-inquilinos-gratis-1.webp)
+
 ## La importancia de contar con abogados especializados en casos de inquilinos
 
 - Los abogados especializados en casos de inquilinos ofrecen asesoramiento legal gratuito para proteger los derechos de los arrendatarios.

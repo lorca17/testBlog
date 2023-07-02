@@ -9,6 +9,8 @@ descripcion: >-
 
 # Abogado de accidente laboral: Cómo encontrar al mejor experto en casos laborales
 
+ ![abogado accidente-laboral.md](./img/abogado-accidente-laboral-1.webp)
+
 ## Una guía completa para contratar al abogado adecuado
 
 > "¡No luches solo! Encuentra al abogado de accidente laboral que necesitas"

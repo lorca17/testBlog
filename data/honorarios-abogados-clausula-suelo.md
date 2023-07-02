@@ -9,6 +9,8 @@ descripcion: >-
 
 # Honorarios de Abogados: ¿Cómo afecta la cláusula suelo en los honorarios?
 
+ ![honorarios abogados-clausula-suelo.md](./img/honorarios-abogados-clausula-suelo-1.webp)
+
 ## Introducción
 
 En este artículo exploraremos cómo la cláusula suelo en los contratos hipotecarios puede afectar los honorarios de los abogados. Analizaremos en qué consiste esta cláusula, cuál es su impacto en los honorarios de los abogados y cómo puedes encontrar los mejores profesionales para resolver este tipo de casos.

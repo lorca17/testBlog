@@ -9,6 +9,8 @@ descripcion: >-
 
 # Precio de divorcio por mutuo acuerdo: ¿Cómo afecta a las familias?
 
+ ![precio divorcio-mutuo-acuerdo.md](./img/precio-divorcio-mutuo-acuerdo-1.webp)
+
 ## Introducción
 
 En este artículo hablaremos sobre el precio de un divorcio por mutuo acuerdo y cómo puede afectar a las familias. Exploraremos los diferentes factores que influyen en el costo de un divorcio y proporcionaremos información valiosa para quienes están considerando esta opción. A continuación, presentamos una lista resumida de todo el contenido que abordaremos en este artículo:

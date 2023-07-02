@@ -9,6 +9,8 @@ descripcion: >-
 
 # Sanguino Abogados: Expertos en Leyes y Soluciones Legales
 
+ ![sanguino abogados.md](./img/sanguino-abogados-1.webp)
+
 ## La Importancia de Contar con un Bufete Jurídico de Calidad
 
 > "La justicia es el pan diario de la sociedad" - Sanguino Abogados
