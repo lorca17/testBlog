@@ -14,7 +14,6 @@ descripcion: >-
 ![Separación de mutuo acuerdo sin abogados](./img/separacion-de-mutuo-acuerdo-sin-abogados-1.webp)
 _Imagen ilustrativa de una pareja en proceso de separación_
 
-## Introducción
 
 En ocasiones, las parejas deciden poner fin a su relación de manera amigable y sin la necesidad de recurrir a costosos abogados. La separación de mutuo acuerdo sin abogados es una alternativa cada vez más popular, que permite a las parejas resolver sus diferencias de manera pacífica y económica. En este artículo, exploraremos en detalle esta opción y cómo puede beneficiar a aquellos que buscan una separación tranquila.
 
@@ -42,7 +41,7 @@ _Imagen ilustrativa de un contrato de separación de mutuo acuerdo_
 
 La separación de mutuo acuerdo sin abogados es recomendable en situaciones donde exista un alto grado de consenso y la pareja esté dispuesta a colaborar y resolver sus diferencias de manera pacífica. Sin embargo, es importante tener en cuenta que cada caso es único y que en algunos casos puede ser necesario recurrir a la asesoría legal de un abogado especializado.
 
-## Conclusiones
+es
 
 La separación de mutuo acuerdo sin abogados es una excelente opción para aquellas parejas que desean poner fin a su relación de manera amigable y económica. A través de un diálogo abierto y la redacción de un acuerdo de mutuo acuerdo, es posible resolver las diferencias de manera pacífica y evitar los altos costos asociados con los abogados. Si estás considerando una separación, te animamos a explorar esta opción y buscar el asesoramiento adecuado.
 

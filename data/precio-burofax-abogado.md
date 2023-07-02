@@ -30,7 +30,7 @@ El precio del burofax puede variar dependiendo del peso, destino y urgencia del 
 
 Los abogados están constantemente buscando alternativas para reducir los costos y optimizar su trabajo. Una opción es buscar empresas de mensajería que ofrezcan tarifas más económicas para el envío de burofax. Otra alternativa es utilizar servicios de correo electrónico certificado, que también tienen valor probatorio y suelen ser más económicos.
 
-## **Conclusión**
+
 
 El costo de enviar un burofax en España es una preocupación para muchos abogados y profesionales del derecho. Sin embargo, existen alternativas que pueden ayudar a reducir estos costos y optimizar el trabajo de los abogados. Es importante que los profesionales del derecho investiguen y elijan la opción que mejor se adapte a sus necesidades y presupuesto.
 

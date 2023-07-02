@@ -37,7 +37,7 @@ Tu perro es un miembro querido de tu familia y su hogar es una parte vital de su
 
 Cuando se trata de la defensa legal de tu perro, es crucial encontrar al abogado adecuado. Elige a alguien que tenga experiencia en casos caninos y que esté comprometido con la protección de los derechos de los perros. Puedes consultar a tu bufete jurídico de confianza o buscar recomendaciones de otros dueños de perros. Además, también puedes utilizar recursos en línea para encontrar abogados especialistas en casos caninos en tu área. Recuerda que la justicia para los mejores amigos del hombre está al alcance de tu mano.
 
-## **Conclusión**
+
 
 ![Abogados expertos en casos caninos](./img/abogado-perro-1.webp)
 

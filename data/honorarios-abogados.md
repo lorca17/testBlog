@@ -10,7 +10,6 @@ descripcion: >-
 
 ![Honorarios de abogados](./img/honorarios-abogados-1.webp)
 
-## Introducción
 
 En el mundo legal, contratar a un abogado puede ser una decisión importante y costosa. Los honorarios de los abogados varían dependiendo de varios factores, como la complejidad del caso, la experiencia del abogado y la ubicación geográfica. En este artículo, exploraremos el tema de los honorarios de los abogados y responderemos a algunas preguntas comunes que pueden surgir al momento de contratar un abogado.
 
@@ -50,7 +49,7 @@ No existe una fórmula única para calcular los honorarios de los abogados, ya q
 
 Es importante discutir y acordar los honorarios con el abogado antes de contratar sus servicios para evitar malentendidos o sorpresas desagradables.
 
-## Conclusiones
+es
 
 Contratar a un abogado puede ser una inversión importante, pero es crucial para proteger sus derechos y obtener un resultado favorable en su caso legal. Los honorarios de los abogados pueden variar significativamente, por lo que es importante hacer una investigación exhaustiva, solicitar presupuestos y discutir los honorarios antes de tomar una decisión. Recuerde que la calidad y la experiencia del abogado son factores clave en la determinación de los honorarios. ¡No escatime en buscar el mejor acompañamiento legal para su situación!
 

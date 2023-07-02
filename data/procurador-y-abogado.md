@@ -33,7 +33,7 @@ Estos son solo algunos de los temas que se cubrirán durante el evento. ¡No te 
 
 Además de las sesiones educativas, este encuentro brindará a los participantes la oportunidad de interactuar y conectarse con colegas de todo el mundo. Podrás establecer contactos, compartir experiencias y obtener información valiosa de aquellos que enfrentan desafíos similares en su práctica legal. ¡La colaboración y el intercambio de ideas son clave para el crecimiento profesional!
 
-## Conclusiones y Próximos Pasos
+es y Próximos Pasos
 
 En resumen, el encuentro de procuradores y abogados es una oportunidad única para adquirir conocimientos, establecer conexiones y fortalecer tu práctica legal. Desde abogados de accidentes de coche hasta expertos en insolvencias, este evento reunirá a los mejores profesionales del campo legal para compartir sus experiencias y conocimientos. ¡No te pierdas esta apasionante experiencia!
 

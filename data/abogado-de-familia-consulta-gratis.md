@@ -49,7 +49,7 @@ Ahora que conoces los criterios para elegir a los buenos abogados de familia, es
 
 Recuerda que una consulta inicial gratuita te dará la oportunidad de discutir tu caso con el abogado y evaluar si es la persona adecuada para representarte. Aprovecha esta oportunidad para hacer preguntas, aclarar dudas y obtener una visión general de cómo el abogado abordaría tu situación.
 
-## Conclusiones
+es
 
 En resumen, si te encuentras en una situación legal relacionada con temas familiares, es fundamental contar con el apoyo de un abogado de familia especializado. Asegúrate de elegir a los mejores profesionales siguiendo los criterios mencionados anteriormente y aprovecha las diversas opciones disponibles para encontrar al abogado adecuado para tu caso.
 

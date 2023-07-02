@@ -32,7 +32,7 @@ Encontrar un buen abogado contencioso administrativo puede marcar la diferencia 
 3. **Consulta inicial**: Programa una consulta inicial con el abogado para discutir tu caso y evaluar si son la mejor opción para representarte.
 4. **Honorarios y costos**: Discute los honorarios y costos con el abogado antes de contratar sus servicios. Asegúrate de que sean transparentes y que se ajusten a tu presupuesto.
 
-## Conclusión
+
 
 En resumen, contar con un abogado contencioso administrativo es fundamental para proteger tus derechos y obtener el mejor resultado posible en casos administrativos. Estos profesionales especializados brindarán el apoyo y la representación necesarios para enfrentar cualquier desafío legal que puedas enfrentar. No dudes en buscar un buen abogado contencioso administrativo para asegurarte de que tus derechos estén protegidos en todo momento.
 

@@ -12,7 +12,6 @@ descripcion: >-
 
 # Abogado de Propiedad Horizontal: La clave para resolver conflictos en comunidades de vecinos
 
-## Introducción
 
 En este artículo vamos a explorar el papel fundamental que desempeña un abogado de propiedad horizontal en la resolución de conflictos en comunidades de vecinos. Si estás enfrentando problemas legales en tu comunidad, como disputas por el uso de áreas comunes, impagos de cuotas o incumplimientos de normas, un abogado especializado en propiedad horizontal puede ser tu mejor aliado. A continuación, te presentamos una lista de los temas que abordaremos en este artículo:
 

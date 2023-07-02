@@ -63,7 +63,7 @@ Sketch is another popular design tool that is widely used in the industry. Known
 
 
 
-## Conclusion
+
 
 In conclusion, both Adobe XD and Sketch are powerful design tools with their own unique strengths. Adobe XD offers a comprehensive set of features and integration with other Adobe Creative Cloud apps, making it a great choice for designers who work within the Adobe ecosystem. On the other hand, Sketch's simplicity and focus on user interface design make it a favorite among many designers.
 

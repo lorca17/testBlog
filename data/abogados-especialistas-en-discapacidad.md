@@ -12,7 +12,7 @@ descripcion: >-
 
 ![Image 1](./img/abogados-especialistas-en-discapacidad-1.webp)
 
-## **Introducción**
+
 
 En la actualidad, es fundamental contar con el respaldo legal adecuado para proteger nuestros derechos y garantizar nuestra inclusión en la sociedad. Los abogados especialistas en discapacidad son profesionales capacitados que brindan asesoramiento y representación legal a las personas que enfrentan desafíos relacionados con su discapacidad. En este artículo, exploraremos la importancia de contar con estos expertos y cómo pueden ayudarte a superar obstáculos y alcanzar tus metas.
 

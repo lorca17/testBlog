@@ -33,6 +33,6 @@ La lucha por la justicia y la compensación en casos de negligencia médica pued
 
 Si ha sido víctima de negligencia médica o conoce a alguien que lo ha sido, es importante buscar información y apoyo adicional. Hay numerosos blogs y recursos en línea que pueden proporcionar orientación y asesoramiento sobre cómo abordar la negligencia médica y buscar justicia. Algunos de estos recursos incluyen [abogados especializados en casos de negligencia médica](abogados-negligencias-medicas), [abogados de casos civiles](abogados-de-casos-civiles) y [abogados de accidentes](abogados-de-accidentes).
 
-## Conclusiones
+es
 
 La negligencia médica es un problema grave que requiere atención y acción inmediata. Es fundamental contar con abogados especializados en casos de negligencia médica para garantizar la justicia y la compensación adecuada para las víctimas. A través de la búsqueda de recursos y apoyo, podemos luchar contra la negligencia médica y trabajar juntos para crear un sistema de atención médica más seguro y confiable.

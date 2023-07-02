@@ -46,7 +46,7 @@ Para llevar a cabo una separación amistosa sin abogados, es importante seguir a
 
 4. **Revisión legal opcional:** Aunque no es necesario, algunas parejas pueden optar por que un abogado revise el acuerdo para asegurarse de que cumpla con las leyes y regulaciones aplicables.
 
-### Conclusión
+#
 
 La separación amistosa sin abogados es una opción cada vez más popular para parejas que desean poner fin a su relación de manera pacífica y económica. A través de la comunicación abierta, la negociación y la redacción de acuerdos, las parejas pueden resolver sus diferencias sin recurrir a costosos procesos legales. Si estás considerando separarte, te animamos a explorar esta alternativa y descubrir cómo puede beneficiarte a ti y a tu ex pareja.
 

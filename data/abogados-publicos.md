@@ -12,7 +12,6 @@ descripcion: >-
 
  ![abogados publicos.md](./img/abogados-publicos-1.webp)
 
-## Introducción
 
 En el mundo legal, es fundamental contar con expertos en diferentes áreas para garantizar una representación eficiente. Los **abogados públicos** son profesionales especializados que brindan asesoramiento y defensa legal a personas que no pueden permitirse contratar servicios privados. En este artículo, exploraremos en detalle qué son los abogados públicos y cómo pueden ayudarte. ¡Descubre todo lo que necesitas saber!
 
@@ -38,7 +37,7 @@ Los abogados públicos pueden brindar asistencia legal en una amplia gama de sit
 3. **Casos civiles**: Si te encuentras en medio de un caso civil, como disputas de propiedades o problemas de vivienda, los abogados públicos pueden representarte y proteger tus derechos legales.
 4. **Derecho laboral**: Si estás enfrentando problemas laborales, como despidos injustificados o acoso en el trabajo, los abogados públicos especializados en derecho laboral pueden brindarte asesoramiento y representación.
 
-## Conclusion
+
 
 Los abogados públicos desempeñan un papel crucial en la sociedad al brindar asesoramiento y representación legal a aquellos que no pueden permitirse contratar servicios privados. Si te encuentras en una situación en la que necesitas asesoramiento legal pero no puedes permitirte los honorarios de un abogado privado, no dudes en contactar a un abogado público. ¡Ellos estarán ahí para ayudarte en tu camino hacia la justicia!
 

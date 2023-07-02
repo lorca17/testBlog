@@ -37,7 +37,7 @@ Si estás buscando un abogado de inmigración cerca de ti, aquí te ofrecemos al
 4. Programa una consulta: Agenda una consulta inicial con los abogados que te interesen. Aprovecha esta oportunidad para hacer preguntas y evaluar su nivel de conocimiento y compromiso.
 5. Evalúa la comunicación y el trato personal: Es importante que te sientas cómodo y confiado al comunicarte con tu abogado de inmigración. Busca alguien con quien puedas establecer una buena relación de trabajo.
 
-### Imagen relacionada: Abogados de inmigración en acción
+###  Abogados de inmigración en acción
 
 ![Abogados de inmigración](./img/abogados-de-inmigracion-cerca-de-mi-1.webp)
 
@@ -54,7 +54,7 @@ El proceso de inmigración puede ser complicado y lleno de desafíos. Algunos de
 
 Contar con un abogado de inmigración adecuado puede marcar la diferencia en el éxito de tu caso. Estos profesionales tienen el conocimiento y la experiencia necesarios para guiar y representar tu caso de manera efectiva.
 
-## Conclusiones finales
+es finales
 
 En resumen, si estás buscando un abogado de inmigración cerca de ti, es crucial realizar una investigación exhaustiva, leer opiniones y testimonios, y programar consultas con varios profesionales antes de tomar una decisión. Recuerda que contratar al abogado adecuado puede marcar la diferencia en el resultado de tu proceso de inmigración.
 

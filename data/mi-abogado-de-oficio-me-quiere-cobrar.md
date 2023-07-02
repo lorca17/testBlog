@@ -13,7 +13,6 @@ descripcion: >-
 
  ![mi abogado-de-oficio-me-quiere-cobrar.md](./img/mi-abogado-de-oficio-me-quiere-cobrar-1.webp)
 
-## Introducción
 
 En esta ocasión, quiero compartir con ustedes una historia personal que refleja la realidad a la que muchos nos enfrentamos al lidiar con abogados de oficio. A través de una serie de eventos desafortunados, me vi envuelto en un caso legal complicado y, como muchos, decidí recurrir a un abogado de oficio para recibir asesoramiento y representación legal. Sin embargo, lo que esperaba que fuera una ayuda gratuita y justa, se convirtió en una pesadilla financiera. En este artículo, exploraré los desafíos que enfrenté, las dificultades para obtener respuestas y la lucha por encontrar una solución justa.
 
@@ -37,7 +36,7 @@ Con el tiempo, me enteré de que existían abogados especialistas en insolvencia
 
 A pesar de los obstáculos y la desesperación, decidí seguir luchando por encontrar un abogado que me brindara el apoyo legal que necesitaba sin arruinarme financieramente. Continué buscando abogados de casos civiles, bufetes jurídicos y otros recursos legales que pudieran ofrecerme una solución justa y asequible.
 
-## Conclusiones
+es
 
 La historia de mi experiencia con mi abogado de oficio es solo uno de los muchos casos de injusticia que ocurren a diario. Es importante que las personas conozcan sus derechos y busquen alternativas cuando sientan que están siendo tratadas de manera injusta. Para aquellos que se encuentran en situaciones similares, les insto a no rendirse y a seguir luchando por la justicia que se merecen.
 

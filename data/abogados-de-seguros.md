@@ -12,7 +12,7 @@ descripcion: >-
 
 ![Abogados de Seguros](./img/abogados-de-seguros-1.webp)
 
-## **Introducción**
+
 
 En la actualidad, contar con un seguro puede brindarte una gran tranquilidad, ya sea para proteger tu hogar, tu vehículo o tu salud. Sin embargo, en caso de enfrentar un problema o siniestro, es fundamental contar con el respaldo de abogados especializados en seguros. En este artículo, te presentaremos la importancia de contar con abogados de seguros y cómo pueden ayudarte a proteger tus intereses.
 

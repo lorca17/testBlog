@@ -9,7 +9,6 @@ descripcion: >-
 
  ![abogado notario.md](./img/abogado-notario-1.webp)
 
-## Introducción
 
 En el mundo legal, hay profesionales que juegan un papel fundamental en diversas áreas, como los abogados y notarios. Estos expertos desempeñan roles importantes en la sociedad, ofreciendo servicios legales y asesoramiento en diferentes situaciones. En este artículo, exploraremos en detalle el papel y las responsabilidades de un abogado notario, así como su importancia en el ámbito legal. También abordaremos algunas preguntas frecuentes sobre este tema. 
 
@@ -33,7 +32,7 @@ Los abogados notarios tienen una amplia gama de responsabilidades legales y nota
 
 La figura del abogado notario es crucial en el ámbito legal, ya que su doble cualificación y experiencia les permite brindar servicios valiosos a sus clientes. Al contar con un abogado notario, las personas pueden tener la tranquilidad de que están recibiendo asesoramiento legal sólido y experto en diversos aspectos de sus vidas, desde la compra de una propiedad hasta la planificación de su patrimonio.
 
-## Conclusion
+
 
 En resumen, los abogados notarios son profesionales del derecho que ofrecen servicios legales y notariales en una amplia gama de áreas. Su doble cualificación como abogados y notarios los convierte en expertos versátiles y confiables para sus clientes. Si estás buscando asesoramiento legal o necesitas ayuda en un proceso legal, contar con un abogado notario puede ser de gran beneficio para ti. Recuerda que siempre es importante buscar el asesoramiento adecuado en todas las cuestiones legales que puedas enfrentar.
 

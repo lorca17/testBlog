@@ -11,7 +11,6 @@ descripcion: >-
 
 ![Abogado sociedad 1](./img/abogado-sociedades-1.webp)
 
-## Introducción
 
 En el mundo legal, los abogados juegan un papel fundamental en el funcionamiento de las sociedades modernas. Su conocimiento y experiencia son vitales para proteger los derechos y resolver los conflictos legales que surgen en diferentes ámbitos de la vida. En este artículo, exploraremos el papel crucial que desempeñan los abogados en el sistema legal y cómo su trabajo contribuye al desarrollo de una sociedad justa y equitativa.
 
@@ -50,7 +49,7 @@ El acceso a la justicia es un principio fundamental en una sociedad democrática
 
 
 
-## Conclusion
+
 
 
 

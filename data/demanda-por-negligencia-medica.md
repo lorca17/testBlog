@@ -41,7 +41,7 @@ Cuando alguien es víctima de negligencia médica, tiene el derecho de presentar
 
 Es importante destacar que cada caso de negligencia médica es único y requiere una evaluación exhaustiva. Los abogados especializados trabajarán en estrecha colaboración con los clientes para recopilar pruebas, negociar con las partes responsables y buscar una resolución justa.
 
-### Conclusion: Luchando por un Sistema de Salud Más Seguro y Responsable
+#: Luchando por un Sistema de Salud Más Seguro y Responsable
 
 En conclusión, la negligencia médica es un problema grave que afecta a muchas personas en todo el mundo. Es fundamental que las víctimas de negligencia médica sepan que tienen derechos legales y recursos disponibles para buscar justicia. Los abogados especializados en casos de negligencia médica están aquí para brindar apoyo y representación legal en esta lucha por un sistema de salud más seguro y responsable.
 

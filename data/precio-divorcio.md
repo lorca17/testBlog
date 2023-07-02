@@ -40,7 +40,7 @@ Si estás buscando minimizar los costos y el estrés asociados con el divorcio, 
 
 5. Mantén la perspectiva: Recordar que el divorcio es un proceso temporal y que, a largo plazo, puede ayudar a las parejas a encontrar la felicidad y la estabilidad que buscan. Mantén la perspectiva y mantén el enfoque en el futuro.
 
-### Conclusiones y recursos adicionales
+#es y recursos adicionales
 
 En resumen, el precio del divorcio puede variar considerablemente dependiendo de varios factores, como la complejidad del caso y la elección del abogado. Sin embargo, hay formas de reducir los costos y hacer que el proceso de divorcio sea más asequible y menos estresante. Manteniendo una comunicación abierta, considerando la mediación y investigando tus opciones legales, puedes encontrar soluciones económicas y amistosas para tu separación. Recuerda siempre consultar con un profesional de confianza para obtener asesoramiento legal personalizado.
 

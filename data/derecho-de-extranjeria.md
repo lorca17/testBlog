@@ -12,7 +12,6 @@ descripcion: >-
 
 ![imagen](./img/derecho-de-extranjeria-1.webp)
 
-## Introducción
 
 En el complejo mundo de la inmigración, es fundamental entender y ejercer correctamente el **derecho de extranjería**. Para ayudarte en este proceso, hemos creado esta guía completa que te brindará toda la información necesaria para navegar con éxito el sistema de inmigración. Desde los diferentes tipos de visas hasta los requisitos legales, aquí encontrarás todo lo que necesitas saber para proteger tus derechos y alcanzar tus metas de inmigración.
 
@@ -44,7 +43,7 @@ Durante el proceso de solicitud, es posible que se te requiera asistir a entrevi
 
 Dada la complejidad del **derecho de extranjería**, es altamente recomendable contar con un abogado especializado en el campo. Un abogado con experiencia en **derecho de extranjería** puede ayudarte a entender tus derechos y opciones legales, así como a navegar por el proceso de solicitud de manera efectiva.
 
-## Conclusion
+
 
 El **derecho de extranjería** es una parte fundamental del sistema de inmigración y es crucial entender y ejercer tus derechos de manera adecuada. Al contar con un abogado especializado en **derecho de extranjería**, podrás navegar el proceso de inmigración con confianza y alcanzar tus metas de manera efectiva.
 

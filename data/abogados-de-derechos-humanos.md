@@ -45,7 +45,7 @@ Los abogados de derechos humanos son defensores incansables de las víctimas de 
 
 El trabajo de los abogados de derechos humanos no sería posible sin la colaboración y solidaridad entre organizaciones, abogados y defensores de todo el mundo. Estas redes globales permiten el intercambio de conocimientos, la coordinación de esfuerzos y la defensa conjunta de los derechos humanos en diferentes contextos. A través de esta colaboración, los abogados de derechos humanos fortalecen su capacidad para enfrentar desafíos comunes y lograr mayores impactos en la protección de los derechos humanos.
 
-## Conclusiones y Recursos Adicionales
+es y Recursos Adicionales
 
 En conclusión, los abogados de derechos humanos desempeñan un papel esencial en la defensa de la justicia y la libertad. Su trabajo incansable, compromiso y valentía son fundamentales para construir un mundo más justo y equitativo. Si deseas obtener más información sobre los abogados de derechos humanos o quieres conocer otras organizaciones y recursos relacionados con esta importante labor, te invitamos a visitar los siguientes enlaces:
 

@@ -11,7 +11,6 @@ descripcion: >-
 # Abogados de Sucesiones: Expertos en Herencias y Testamentos
 
 
-## Introducción
 
 En este artículo exploraremos el papel fundamental de los **abogados de sucesiones** en el manejo de asuntos relacionados con herencias y testamentos. Conoceremos la importancia de contar con expertos en el campo jurídico para garantizar que los procesos de sucesión se lleven a cabo de manera adecuada y justa. A continuación, presentamos un resumen de los temas que se discutirán en este artículo:
 

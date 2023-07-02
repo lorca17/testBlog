@@ -12,7 +12,6 @@ descripcion: >-
 
 ![imagen abogado](./img/abogado-derecho-de-familia-1.webp)
 
-## Introducción
 
 El derecho de familia abarca una amplia gama de asuntos legales relacionados con las relaciones familiares y los temas domésticos. En este ámbito, el papel del abogado es crucial para garantizar que se protejan los derechos y se resuelvan los conflictos de manera justa y equitativa. En este artículo, exploraremos la importancia del abogado en el derecho de familia y cómo pueden ayudar a las personas en diferentes situaciones.
 
@@ -40,7 +39,7 @@ Otro aspecto importante del derecho de familia en el que un abogado juega un pap
 
 Además de ayudar a las víctimas de violencia doméstica, los abogados de familia también pueden asesorar a las personas que han sido acusadas falsamente de violencia doméstica. Su objetivo es garantizar que se haga justicia y que se protejan los derechos de todas las partes involucradas.
 
-## Conclusion
+
 
 En conclusión, el papel del abogado en el derecho de familia es fundamental para garantizar la protección de los derechos de las personas y resolver los conflictos de manera justa. Ya sea en casos de divorcio, adopción o violencia doméstica, los abogados de familia desempeñan un papel crucial al brindar asesoramiento legal, representación en el tribunal y apoyo emocional a sus clientes.
 

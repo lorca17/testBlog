@@ -8,7 +8,6 @@ descripcion: >-
 
 # Asistencia Legal para Arrendatarios: Protege tus Derechos como Inquilino
 
-## Introducción
 
 El mercado de alquiler de viviendas puede ser complicado y los inquilinos a menudo se enfrentan a problemas legales. En este artículo, exploraremos la importancia de la ayuda legal para inquilinos y cómo puedes proteger tus derechos. Aquí tienes un resumen de lo que aprenderás:
 
