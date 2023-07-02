@@ -15,7 +15,7 @@ export default function Single({dato}){
     return (
       <>
       
-      <main className="max-w-5xl mx-auto pb-10 pt-10">
+      <main className="max-w-5xl mx-auto pb-10 ">
            <div className="flex flex-wrap overflow-hidden">
                <div className="w-full overflow-hidden ">
                    <div className="mr-2 md:mr-4 ml-2">
@@ -39,8 +39,6 @@ export default function Single({dato}){
      )
 
   } else {
-    return (
-      <h1>{JSON.stringify(dato)}</h1>
-    )
+    redirect("/");
   }  
 }

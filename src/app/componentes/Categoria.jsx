@@ -16,13 +16,9 @@ export default function Single({directorio}){
   })
 
   
-
-
-  
-
-  /* if (existe){ */
-  //  let datoFichero = fs.readFileSync(dataDirectorio+'/'+dato+'.md','utf-8')
-  //   let {data,content} = matter(datoFichero)
+  if (existe){
+   let datoFichero = fs.readFileSync(dataDirectorio+'/'+dato+'.md','utf-8')
+   let {data,content} = matter(datoFichero)
     return (
       <div className="bg-gray-100">
     
@@ -53,7 +49,7 @@ export default function Single({directorio}){
 </div>
      )
 
-  /* } else {
+  } else {
     redirect("/");
-  }   */
+  }  
 }

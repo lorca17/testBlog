@@ -8,6 +8,8 @@ descripcion: >-
 
 # Gabinete de Abogados: La solución a tus problemas legales
 
+![Gabinete de Abogados](./img/gabinete-de-abogados-1.webp)
+
 ## Conoce los servicios ofrecidos por nuestro Gabinete de Abogados
 
 > "Somos expertos en derecho y estamos aquí para ayudarte en cualquier situación legal que enfrentes."
@@ -15,6 +17,8 @@ descripcion: >-
 En nuestro Gabinete de Abogados, ofrecemos una amplia gama de servicios legales para satisfacer tus necesidades. Ya sea que estés buscando representación en casos de accidentes de coche, necesites un abogado de tránsito, estés luchando por problemas familiares o enfrentes problemas legales relacionados con insolvencias, estamos aquí para ti. Nuestros abogados altamente capacitados y especializados en diferentes áreas del derecho estarán contigo en cada paso del camino.
 
 ## Nuestros servicios
+
+![Gabinete de Abogados](./img/gabinete-de-abogados-2.webp)
 
 - Abogados especialistas en accidentes de tráfico
 - Bufete jurídico de confianza
@@ -78,8 +82,5 @@ Para obtener más información sobre temas legales relacionados, te recomendamos
 - [Conoce a nuestros abogados especialistas en deudas](abogados-especialistas-en-deudas)
 - [Abogados expertos en herencias y testamentos](abogados-expertos-en-herencias-y-testamentos)
 
-![Gabinete de Abogados](./img/gabinete-de-abogados-1.webp)
-
-![Gabinete de Abogados](./img/gabinete-de-abogados-2.webp)
 
 

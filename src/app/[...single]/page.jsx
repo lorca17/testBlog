@@ -22,11 +22,7 @@ export default function Page({ params }) {
   if (esDirectorio) {
     return (
       <>
-        <Header />
-        <p>{nameFile} - 1</p>
-        <p>{JSON.stringify(ficheros)} - 2</p>
-        <p>{JSON.stringify(params)} - params</p>
-        <p>Es directorio = {JSON.stringify(esDirectorio)}</p>
+        <Header />     
         <Categoria directorio={nameFile} />
         <Footer />
       </>

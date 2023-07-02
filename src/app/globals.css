@@ -951,3 +951,11 @@ h1, h2, h3 {
 #entry-content li {
   @apply list-inside list-disc
 }
+
+#entry-content a {
+  @apply underline text-blue-800 text-xl
+}
+
+#entry-content img {
+  @apply my-10
+}

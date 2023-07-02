@@ -9,8 +9,6 @@ descripcion: >-
 
 # Abogado Civil - Consulta Gratis: Encuentra a los Mejores Expertos en Casos Civiles
 
-## Abogado Civil - Consulta Gratis: Encuentra a los Mejores Expertos en Casos Civiles
-
 > "Encuentra a los mejores abogados especializados en casos civiles y obtén una consulta gratis para resolver tus problemas legales."
 
 ![abogado-civil-consulta-gratis-1](./img/abogado-civil-consulta-gratis-1.webp)
