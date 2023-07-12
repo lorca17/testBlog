@@ -8,6 +8,8 @@ descripcion: >-
 
 # Accidente de Tráfico: ¿Sabes qué hacer después de un incidente vial?
 
+![Abogado de accidente de tráfico](./img/abogado-accidente-trafico-2.webp)
+
 ## Abogados especialistas en accidentes de tráfico te brindan la mejor asistencia legal
 
 En caso de verse involucrado en un accidente de tráfico, es fundamental contar con la asesoría de abogados especializados en esta área. Los buenos abogados de familia pueden brindarte el apoyo necesario para proteger tus derechos y obtener la compensación que mereces.
@@ -58,7 +60,6 @@ Mengano Pérez, cliente satisfecho
 
 Sultana Sánchez, cliente satisfecha
 
-![Abogado de accidente de tráfico](./img/abogado-accidente-trafico-2.webp)
 
 
 

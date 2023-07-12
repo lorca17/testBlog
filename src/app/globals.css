@@ -949,7 +949,7 @@ h1, h2, h3 {
 }
 
 #entry-content li {
-  @apply list-inside list-disc
+  @apply  list-disc m-5
 }
 
 #entry-content a {

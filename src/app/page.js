@@ -15,8 +15,8 @@ export default function Home() {
   return (
     <>
       <Header />
-      <Featured items={posts()} />
       <Main />
+      <Featured items={posts()} />
       <Footer />
     </>
   );

@@ -7,7 +7,6 @@ descripcion: >-
   propiedades.
 ---
 
-# Título en español:
 
 ## Abogados inmobiliarios gratuitos: la mejor opción para proteger tus propiedades
 

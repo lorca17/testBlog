@@ -63,7 +63,7 @@ export default function Main(){
 
         </div>
         <div className="text-center">
-            <button className="rounded-sm bg-gray-900 text-white tracking-widest text-sm uppercase font-medium py-3 mt-5 px-5">Load more articles</button>
+            <button className="rounded-sm bg-gray-900 text-white tracking-widest text-sm uppercase font-medium py-3 mt-5 px-5">Cargar mas Articulos</button>
         </div>
     </main>
   </>)
